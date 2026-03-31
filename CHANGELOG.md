@@ -4,6 +4,8 @@
 - Remove deprecated "restoring shell history" feature.
 - `claude` (Claude Code) added to the list of automatically restored programs
   with a `session` strategy that resumes the most recent conversation.
+- `codex` (Codex) added to the list of automatically restored programs
+  with a `session` strategy that resumes the most recent session.
 
 ### v4.0.0, 2022-04-10
 - Proper handling of `automatic-rename` window option.
