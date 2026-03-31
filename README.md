@@ -92,7 +92,7 @@ You should now be able to use the plugin.
 - [Changing the default key bindings](docs/custom_key_bindings.md).
 - [Setting up hooks on save & restore](docs/hooks.md).
 - Only a conservative list of programs is restored by default:<br/>
-  `vi vim nvim emacs man less more tail top htop irssi weechat mutt`.<br/>
+  `vi vim nvim emacs man less more tail top htop irssi weechat mutt claude`.<br/>
   [Restoring programs doc](docs/restoring_programs.md) explains how to restore
   additional programs.
 - [Change a directory](docs/save_dir.md) where `tmux-resurrect` saves tmux
@@ -102,6 +102,8 @@ You should now be able to use the plugin.
 
 - [Restoring vim and neovim sessions](docs/restoring_vim_and_neovim_sessions.md)
   is nice if you're a vim/neovim user.
+- [Restoring Claude Code sessions](docs/restoring_claude_code_sessions.md)
+  is nice if you use Claude Code for AI-assisted development.
 - [Restoring pane contents](docs/restoring_pane_contents.md) feature.
 
 ### Other goodies

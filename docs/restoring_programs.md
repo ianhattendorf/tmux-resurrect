@@ -6,7 +6,7 @@
 
 ### General instructions <a name="general-instructions"></a>
 Only a conservative list of programs is restored by default:<br/>
-`vi vim nvim emacs man less more tail top htop irssi weechat mutt`.
+`vi vim nvim emacs man less more tail top htop irssi weechat mutt claude`.
 
 This can be configured with `@resurrect-processes` option in `.tmux.conf`. It
 contains space-separated list of additional programs to restore.
